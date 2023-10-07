@@ -1,1 +1,2 @@
-# V2
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#%40Chekauuk+%231
+vless://6f2eb361-fc7c-4a82-9b6c-9fb10a163fdb@195.245.221.70:80?path=%2Fgraphql&security=none&encryption=none&host=vr4RlSu.kallepache.store&type=ws#%40Chekauuk+%232
